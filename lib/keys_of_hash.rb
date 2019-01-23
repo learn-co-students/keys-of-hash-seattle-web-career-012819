@@ -5,5 +5,7 @@ class Hash
       arguments.each do |x|
         if x == value 
         array << key 
+      end
+    end
   end
 end
